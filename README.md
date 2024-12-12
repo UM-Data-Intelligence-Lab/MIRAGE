@@ -1,6 +1,7 @@
 # MIRAGE
 MIRAGE is a human trajectory generative model designed as an intensity-free neural Temporal Point Process integrating a neural Exploration and Preferential Return model to imitate the human decision-making process in trajectory generation. Please see the details in our paper below:  
-- Deng, Bangchao and Jing, Xin and Yang, Tianyue and Qu, Bingqing and Cudre-Mauroux, Philippe and Yang, Dingqi*, Revisiting Synthetic Human Trajectories: Imitative Generation and Benchmarks Beyond Datasaurus, In ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD'25), Aug. 2025, Toronto.
+- Bangchao Deng, Xin Jing, Tianyue Yang, Bingqing Qu, Dingqi Yang*, Philippe Cudre-Mauroux, Revisiting Synthetic Human Trajectories: Imitative Generation and Benchmarks Beyond Datasaurus, In ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD'25), Aug. 2025, Toronto.
+  
 ## How to run the code
 ```
 cd code
