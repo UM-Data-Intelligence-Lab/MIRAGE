@@ -10,18 +10,18 @@ The default dataset is NewYork, you can change the dataset in run.sh to train an
 Our detailed parameters for all datasets are in /code/parameters.py
 
 ## Requirements
-Python: 3.8.18
-torch: 1.12.1
-recbole==1.2.0
-numpy
-matplotlib
-scikit-learn
-setproctitle
-ray
-kmeans-pytorch
-pyarrow
-ray[tune]
-GPU with CUDA 11.3
+Python: 3.8.18  
+torch: 1.12.1  
+recbole==1.2.0  
+numpy  
+matplotlib  
+scikit-learn  
+setproctitle  
+ray  
+kmeans-pytorch  
+pyarrow  
+ray[tune]  
+GPU with CUDA 11.3  
 
 ## Reference
 If you use our code or datasets, please cite:
