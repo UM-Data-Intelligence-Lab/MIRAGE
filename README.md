@@ -6,7 +6,7 @@ MIRAGE is a human trajectory generative model designed as an intensity-free neur
 cd code
 sh run.py
 ```
-The default dataset is NewYork, you can change the dataset in run.sh to train and evaluate on Istanbul and Tokyo datasets.
+The default dataset is NewYork, you can change the dataset in run.sh to train and evaluate on Istanbul and Tokyo datasets.  
 Our detailed parameters for all datasets are in /code/parameters.py
 
 ## Requirements
