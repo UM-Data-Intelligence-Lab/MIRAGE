@@ -38,4 +38,4 @@ If you use our code or datasets, please cite:
 }
 ```
 ## Note
-The implementation is based on [LogNormMix](https://github.com/shchur/ifl-tpp).
+The implementation is based on [LogNormMix](https://github.com/shchur/ifl-tpp) and our Task-based Evaluation Protocol LocRec and NexLoc are based on [RecBole](https://github.com/RUCAIBox/RecBole).
