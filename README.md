@@ -29,12 +29,12 @@ GPU with CUDA 11.3
 ## Reference
 If you use our code or datasets, please cite:
 ```
-@article{deng2024revisiting,
-  title={Revisiting Synthetic Human Trajectories: Imitative Generation and Benchmarks Beyond Datasaurus},
-  author={Deng, Bangchao and Jing, Xin and Yang, Tianyue and Qu, Bingqing and Cudre-Mauroux, Philippe and Yang, Dingqi},
-  booktitle={Proceedings of the 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining},
-  pages={},
-  year={2025}
+@inproceedings{deng2024revisiting,
+title = {Revisiting Synthetic Human Trajectories: Imitative Generation and Benchmarks Beyond Datasaurus},
+author = {Deng, Bangchao and Jing, Xin and Yang, Tianyue and Qu, Bingqing and Yang, Dingqi and Cudre-Mauroux, Philippe},
+booktitle = {Proceedings of the 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining V.1},
+pages = {201–212},
+year = {2025},
 }
 ```
 ## Note
