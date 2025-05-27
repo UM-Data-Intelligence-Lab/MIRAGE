@@ -40,4 +40,4 @@ year = {2025},
 ## Note
 The implementation is based on [LogNormMix](https://github.com/shchur/ifl-tpp) and our Task-based Evaluation Protocol LocRec and NexLoc are based on [RecBole](https://github.com/RUCAIBox/RecBole).
 
-Note that one of our downstream tasks **LightGCN**, in the current RecBole library may not working. Please refer to https://github.com/RUCAIBox/RecBole/issues/2090 to fix the problem, or you can select other tasks as your downstream tasks.
+Note that one of our downstream tasks **LightGCN**, in the current RecBole library has deprecated dependencies. Please refer to https://github.com/RUCAIBox/RecBole/issues/2090 to fix the problem, or you can select other tasks as your downstream tasks.
